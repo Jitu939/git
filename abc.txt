@@ -6,3 +6,4 @@ Logistic regression
 Chart
 histogram 
 bar chart
+modifier
