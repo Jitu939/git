@@ -5,3 +5,4 @@ Linear regression
 Logistic regression
 Chart
 histogram 
+bar chart
