@@ -3,3 +3,4 @@ How are you
 Lets learn some of the concepts of machine learning.
 Linear regression
 Logistic regression
+Chart
