@@ -7,3 +7,4 @@ Chart
 histogram 
 bar chart
 modifier
+decision tree
